@@ -2,7 +2,8 @@
   "packs": [
     "Forger_Anya.json",
     "Bully_Anya_by_Fubuki.json",
-    "UtyaDuck.json"
+    "UtyaDuck.json",
+    "AniDucks.json"
   ],
   "homeserver_url": "https://xethos.net"
 }
