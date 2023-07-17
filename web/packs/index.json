@@ -1,12 +1,22 @@
 {
   "packs": [
-    "Forger_Anya.json",
-    "Bully_Anya_by_Fubuki.json",
-    "UtyaDuck.json",
     "AniDucks.json",
-	"HANGSEED7.json",
+    "Bully_Anya_by_Fubuki.json",
+    "Forger_Anya.json",
 	"Spyxfamilymood.json",
-	"PotterPig.json"
+    "UtyaDuck.json",
+	"yolk_egg.json",
+	"Cheburashka.json",
+	"DonutTheDog.json",
+	"HarleyQuinn.json",
+	"LoveHarley.json",
+	"NekoWaifu.json",
+	"jababababa.json",
+	"FreakyPigeon.json",
+	"MrAvocado.json",
+	"utya_utya.json",
+	"PotterPig.json",
+	"HANGSEED7.json"
   ],
   "homeserver_url": "https://xethos.net"
 }
