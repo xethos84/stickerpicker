@@ -1,7 +1,33 @@
 {
   "packs": [
+    "yolk_egg.json",
     "AniDucks.json",
-    "yolk_egg.json"
+    "UtyaDuckFull.json",
+    "UtyaDuck.json",
+    "utya_utya.json",
+    "PinkUtyaDuck.json",
+    "BlackUtyaDuck.json",
+    "Blue_Duck.json",
+    "PurpleDuck.json",
+    "WhiteUtyaDuck.json",
+    "AnyaVid.json",
+    "Bully_Anya_by_Fubuki.json",
+    "Forger_Anya.json",
+    "Spyxfamilymood.json",
+    "Cheburashka.json",
+    "Dack_Klukva.json",
+    "DonutTheDog.json",
+    "duckduck2.json",
+    "FreakyPigeon.json",
+    "Goosanan.json",
+    "HANGSEED7.json",
+    "jababababa.json",
+    "Liuduckstickers.json",
+    "LoveHarley.json",
+    "HarleyQuinn.json",
+    "MrAvocado.json",
+    "PotterPig.json",
+    "NekoWaifu.json"
   ],
   "homeserver_url": "https://xethos.net"
 }
